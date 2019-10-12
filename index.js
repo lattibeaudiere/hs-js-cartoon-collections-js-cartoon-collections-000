@@ -46,13 +46,3 @@ function longPlaneteerCalls(words) {
 	}
  	return "no cheese!";
 }
-// function findTheCheese(foods) {
-// 	var cheese = ["camembert", "cheddar", "gouda"];
-// 	for(var i = 0; i < foods.length; i++) {
-// 		var cheeseIdx = cheese.indexOf(foods[i]);
-// 		if(cheeseIdx !== -1) {
-// 			return foods[i];
-// 		}
-// 	}
-// 	return "no cheese!";
-// }
